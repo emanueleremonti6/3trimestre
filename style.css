@@ -3,7 +3,7 @@ body {
 }
 
 #titulo {
-    color: #a00e94;
+    color: #100ea0;
     font-size: 50px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ body {
     width: 200px;
     padding: 5px;
     margin: 5px;
-    border: 2px groove  #362FD9;
+    border: 2px groove  #d92fd9;
     border-radius: 20px;
 
 }
